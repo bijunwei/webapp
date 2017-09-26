@@ -1,0 +1,29 @@
+{
+    "errno": 0,
+    "data": [{
+        "title": "暑假35折",
+        "img": "app/img/ad/shujia.png",
+        "link": "https://www.baidu.com/"
+    }, {
+        "title": "特价出国",
+        "img": "app/img/ad/tejiachuguo.png",
+        "link": "https://www.baidu.com/"
+    }, {
+        "title": "亮亮车",
+        "img": "app/img/ad/liangcheche.png",
+        "link": "https://www.baidu.com/"
+    }, {
+        "title": "学钢琴",
+        "img": "app/img/ad/xuegangqin.png",
+        "link": "https://www.baidu.com/"
+    }, {
+        "title": "电影",
+        "img": "app/img/ad/dianying.png",
+        "link": "https://www.baidu.com/"
+    }, {
+        "title": "旅游热线",
+        "img": "app/img/ad/lvyouremai.png",
+        "link": "https://www.baidu.com/"
+    }]
+
+}

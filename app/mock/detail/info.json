@@ -1,0 +1,16 @@
+{
+  "errno": 0,
+  "dataList": {
+    "img": "./app/img/detail/info/tianxiadiyiguo.png",
+    "title": "天下第一锅",
+    "star": 4,
+    "price": "88",
+    "subTitle": "重庆 & 四川 麻辣火锅",
+    "desc": "营业时间 11:00 - 21:00 <br> 电话订购 11:00 - 19:00 <br> 网络订购 11:00 - 19:00",
+    "huanjing": 7.0,
+    "kouwei": 8.7,
+    "fuwu": 9.0,
+    "adr":"翼龙路55号2层106",
+    "phone":"023-8233133"
+  }
+}
